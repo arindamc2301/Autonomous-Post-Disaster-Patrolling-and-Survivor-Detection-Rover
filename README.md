@@ -1,0 +1,2 @@
+# Autonomous-Post-Disaster-Patrolling-and-Survivor-Detection-Rover
+4WD Arduino Uno R3 robot car with L293D shield tracks paths using servo-mounted ultrasonic radar. Maps surroundings over 180°, dodging barriers. Built-in MQ gas and PIR motion sensors detect environmental hazards instantly, flashing an LED and streaming real-time diagnostic telemetry to a 9600-baud serial monitor. Powered cleanly by 18650 cells.
